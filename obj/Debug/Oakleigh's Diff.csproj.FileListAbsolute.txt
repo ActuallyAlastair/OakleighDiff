@@ -1,0 +1,6 @@
+C:\Users\oakle\OneDrive\Documents\Computer Science\C#\Oakleigh's Diff\bin\Debug\Oakleigh's Diff.exe.config
+C:\Users\oakle\OneDrive\Documents\Computer Science\C#\Oakleigh's Diff\bin\Debug\Oakleigh's Diff.exe
+C:\Users\oakle\OneDrive\Documents\Computer Science\C#\Oakleigh's Diff\bin\Debug\Oakleigh's Diff.pdb
+C:\Users\oakle\OneDrive\Documents\Computer Science\C#\Oakleigh's Diff\obj\Debug\Oakleigh's Diff.csprojAssemblyReference.cache
+C:\Users\oakle\OneDrive\Documents\Computer Science\C#\Oakleigh's Diff\obj\Debug\Oakleigh's Diff.exe
+C:\Users\oakle\OneDrive\Documents\Computer Science\C#\Oakleigh's Diff\obj\Debug\Oakleigh's Diff.pdb
